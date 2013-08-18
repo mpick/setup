@@ -47,4 +47,5 @@ ln -sb dotfiles/.bashrc_custom .
 ln -sf dotfiles/.emacs.d .
 
 #final setup is crucial
+exit
 logout
